@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\rediscaching.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\rediscaching.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|c:\\users\\vikas\\source\\repos\\rediscaching\\rediscaching\\migrations\\20260206095539_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52503A6A-0C50-B616-C030-4E53C752095C}|RedisCaching\\RedisCaching.csproj|solutionrelative:rediscaching\\migrations\\20260206095539_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 50,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1961808783:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2034310101:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30909877:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1816525380:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2041195094:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1068117175:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RedisCaching\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RedisCaching\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:52:28.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedisCaching.http",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\RedisCaching.http",
+              "RelativeDocumentMoniker": "RedisCaching\\RedisCaching.http",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\RedisCaching.http",
+              "RelativeToolTip": "RedisCaching\\RedisCaching.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-06T10:15:28.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RedisCaching\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RedisCaching\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAwLsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:57:51.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260206095539_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Migrations\\20260206095539_mig1.cs",
+              "RelativeDocumentMoniker": "RedisCaching\\Migrations\\20260206095539_mig1.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Migrations\\20260206095539_mig1.cs",
+              "RelativeToolTip": "RedisCaching\\Migrations\\20260206095539_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:55:40.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Program.cs",
+              "RelativeDocumentMoniker": "RedisCaching\\Program.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Program.cs",
+              "RelativeToolTip": "RedisCaching\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:39:27.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisCaching\\appsettings.json",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\appsettings.json",
+              "RelativeToolTip": "RedisCaching\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T09:35:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RedisCaching\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RedisCaching\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:18:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RedisCaching\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\vikas\\source\\repos\\RedisCaching\\RedisCaching\\Models\\Product.cs",
+              "RelativeToolTip": "RedisCaching\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:17:51.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
